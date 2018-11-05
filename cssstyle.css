@@ -1,0 +1,56 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+
+body {
+  width: 800px;
+  margin: 50px auto;
+}
+
+.Letter-header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.Letter-header h1{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 50px;
+  color: #D8267D;
+  margin-bottom: 50px;
+}
+
+
+
+.Address {
+  font-family: 'Lato', sans-serif;
+  font-size: 16px;
+  Color: #7A7A7A;
+
+}
+
+main  p {
+  font-family: 'Lato', sans-serif;
+  margin-bottom : 20px; 
+}
+
+.Letter-content {
+  float: right;
+  line-height: 28px;
+  width: 600px;
+}
+aside p {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+.aside-info {
+  float: left;
+  font-size: 16px; 
+  Color:  #7A7A7A;
+}
+
+.aside-address {
+  line-height: 22px;
+}
